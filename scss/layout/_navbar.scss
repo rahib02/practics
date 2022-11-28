@@ -1,0 +1,37 @@
+#nav {
+    background-color: red;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+
+
+    .header {
+        width: 100%;
+        align-items: center;
+        padding: 0 15% 0 15%;
+        display: flex;
+        justify-content: space-between;
+
+
+        .headerul {
+            align-items: center;
+
+            display: flex;
+
+
+            ul {
+
+                display: flex;
+                text-decoration: none;
+
+                li {
+                    a {
+                        text-decoration: none;
+                    }
+                }
+            }
+        }
+
+
+    }
+}
